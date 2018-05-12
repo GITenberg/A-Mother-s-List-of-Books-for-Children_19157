@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '8510'
     url: http://www.gutenberg.org/2009/agents/8510
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19157#A-Mother-s-List-of-Books-for-Children
 gutenberg_issued: '2006-09-01'
 gutenberg_type: Text
 identifiers:
