@@ -1,0 +1,25 @@
+_repo: A-Mother-s-List-of-Books-for-Children_19157
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19157-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Arnold, Gertrude Weld
+    gutenberg_agent_id: '8510'
+    url: http://www.gutenberg.org/2009/agents/8510
+description: ''
+gutenberg_issued: '2006-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19157'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Books and reading'
+- !lcsh 'Children''s literature -- Bibliography'
+- !lcc 'Z'
+title: A Mother's List of Books for Children
+url: http://www.gutenberg.org/ebooks/19157
